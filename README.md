@@ -9,4 +9,4 @@ python train_svm.py --video_path <video_path>
 ```
 
 #### Reference
-[1] [Koala-36M: A Large-scale Video Dataset Improving Consistency between Fine-grained Conditions and Video Content]
+[1] [Koala-36M: A Large-scale Video Dataset Improving Consistency between Fine-grained Conditions and Video Content][https://arxiv.org/pdf/2410.08260]
